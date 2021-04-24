@@ -11,7 +11,7 @@
     (list (zero-100) (zero-255) (zero-255)))
 
 (defn euro-truck-color-scheme []
-    "generate random values that correspond to euro truck color values i.e. (0-255, 0-255, 0-255)"
+    "generate random values that correspond to euro truck RBG color values i.e. (0-255, 0-255, 0-255)"
     (list (zero-255) (zero-255) (zero-255)))
 
 ;odds of any one color are ~1:16,000,000
